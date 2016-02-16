@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolarvmadfa01cicegoog_0486.png"; bbox 0 0 698 1340; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 43 46 628 180">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 43 46 628 180">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 46 628 180; baseline -0.027 -2"><span class='ocrx_word' id='word_1_1' title='bbox 43 46 628 180; x_wconf 89' lang='lat'><strong>—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 48 508 499 548">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 48 508 499 548">
+     <span class='ocr_line' id='line_1_2' title="bbox 48 508 499 548; baseline 0 -14"><span class='ocrx_word' id='word_1_2' title='bbox 48 546 51 548; x_wconf 66' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 99 508 260 535; x_wconf 71' lang='lat' dir='ltr'><strong>PAVLm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 294 508 499 535; x_wconf 72' lang='lat' dir='ltr'>MANvTu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 42 572 619 633">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 42 572 619 633">
+     <span class='ocr_line' id='line_1_3' title="bbox 42 572 619 633; baseline 0.002 -19"><span class='ocrx_word' id='word_1_5' title='bbox 42 572 557 615; x_wconf 77' lang='lat' dir='ltr'>COMMENTARIVS</span> <span class='ocrx_word' id='word_1_6' title='bbox 599 611 619 633; x_wconf 30' lang='lat' dir='ltr'>N</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 63 699 535 752">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 63 699 535 752">
+     <span class='ocr_line' id='line_1_4' title="bbox 63 699 535 752; baseline 0.002 -20"><span class='ocrx_word' id='word_1_7' title='bbox 63 700 111 732; x_wconf 92' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_8' title='bbox 119 699 275 752; x_wconf 74' lang='lat' dir='ltr'>TVLLn</span> <span class='ocrx_word' id='word_1_9' title='bbox 288 699 535 733; x_wconf 84' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 84 772 518 797">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 84 772 518 797">
+     <span class='ocr_line' id='line_1_5' title="bbox 84 772 518 797; baseline -0.007 0"><span class='ocrx_word' id='word_1_10' title='bbox 84 774 261 797; x_wconf 75' lang='lat' dir='ltr'>EPlsTOLAs</span> <span class='ocrx_word' id='word_1_11' title='bbox 272 774 311 795; x_wconf 76' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_12' title='bbox 320 772 518 796; x_wconf 76' lang='lat' dir='ltr'>FAMILIARES.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolarvmadfa01cicegoog_0173.png"; bbox 0 0 698 1340; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 123 1036 556 1143">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 123 1036 556 1143">
+     <span class='ocr_line' id='line_1_1' title="bbox 237 1036 244 1044; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 237 1036 244 1044; x_wconf 93' lang='lat'><em>.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 126 1064 283 1099; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 126 1064 283 1099; x_wconf 47' lang='lat' dir='ltr'><em>“mx-213</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 123 1096 556 1143; baseline 0 -16"><span class='ocrx_word' id='word_1_3' title='bbox 123 1096 380 1131; x_wconf 41' lang='lat' dir='ltr'><em>&amp;ww-”2⁸:2⁸5</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 398 1096 556 1143; x_wconf 51' lang='lat' dir='ltr'><em>&#39;vzzffam</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 98 42 678 1130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 98 42 678 1130">
+     <span class='ocr_line' id='line_1_4' title="bbox 98 42 678 1130; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 98 42 678 1130; x_wconf 95' lang='lat' dir='ltr'><em>    </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
